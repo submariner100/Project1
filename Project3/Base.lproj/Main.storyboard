@@ -12,7 +12,7 @@
         <!--View Controller-->
         <scene sceneID="rNA-rx-ybQ">
             <objects>
-                <tableViewController id="sTU-aH-yq5" customClass="ViewController" customModule="Project1" customModuleProvider="target" sceneMemberID="viewController">
+                <tableViewController id="sTU-aH-yq5" customClass="ViewController" customModule="Project3" customModuleProvider="target" sceneMemberID="viewController">
                     <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" id="ETI-zM-lJA">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -50,7 +50,7 @@
         <!--Detail View Controller-->
         <scene sceneID="LAN-xu-AyD">
             <objects>
-                <viewController storyboardIdentifier="Detail" id="sZh-mR-6Cd" customClass="DetailViewController" customModule="Project1" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="Detail" id="sZh-mR-6Cd" customClass="DetailViewController" customModule="Project3" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="qda-fX-2sN"/>
                         <viewControllerLayoutGuide type="bottom" id="Sp9-o5-myy"/>
